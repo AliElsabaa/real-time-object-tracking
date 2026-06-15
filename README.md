@@ -87,6 +87,10 @@ python object_tracker.py
 
 ---
 
+## Demo Video
+
+https://www.linkedin.com/feed/update/urn:li:activity:7300530083985780736/
+
 ## 📝 Notes
 
 - The model used is `yolov12n.pt` (nano) — optimized for speed on CPU.
